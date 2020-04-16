@@ -2,9 +2,15 @@ Hi there
 Hi Hi
 
 Barev 
+<<<<<<< HEAD
 Karmir arev
 1
 2
 3
 4
 5
+=======
+Karmir arev2
+3
+4
+>>>>>>> 192a9e6ca178f14ce75d32274f36a68a3a74a007
